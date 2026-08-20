@@ -1,0 +1,159 @@
+omega yield for 2 :8552.45 +/- 114.768
+omega yield for 5 :11733.9 +/- 133.963
+omega yield for 8 :11409.3 +/- 132.864
+omega yield for 11 :11204 +/- 131.713
+omega yield for 14 :10800.5 +/- 129.692
+omega yield for 17 :10628.6 +/- 128.882
+omega yield for 20 :10875.8 +/- 129.931
+omega yield for 23 :11178.3 +/- 131.627
+omega yield for 26 :11102.5 +/- 131.209
+omega yield for 29 :10751.8 +/- 129.14
+omega yield for 32 :10593.8 +/- 128.381
+omega yield for 35 :10530.4 +/- 128.218
+
+ 
+ 
+0 < |t| < 1
+omega yield for 2 :7546.06 +/- 105.566
+omega yield for 5 :7741.16 +/- 106.585
+omega yield for 8 :7621.45 +/- 105.926
+omega yield for 11 :7378.76 +/- 104.509
+omega yield for 14 :7052.42 +/- 102.419
+omega yield for 17 :6977.93 +/- 102.103
+omega yield for 20 :7218.42 +/- 103.232
+omega yield for 23 :7501.16 +/- 105.029
+omega yield for 26 :7152.6 +/- 102.843
+omega yield for 29 :6970.74 +/- 101.413
+omega yield for 32 :6913.6 +/- 101.351
+omega yield for 35 :6863.33 +/- 101.22
+
+ 
+ 
+1 < |t| < 2
+omega yield for 2 :331.983 +/- 26.3
+omega yield for 5 :417.184 +/- 27.594
+omega yield for 8 :331.682 +/- 26.5008
+omega yield for 11 :320.058 +/- 25.9358
+omega yield for 14 :404.08 +/- 27.9721
+omega yield for 17 :348.889 +/- 26.8189
+omega yield for 20 :314.271 +/- 26.2464
+omega yield for 23 :340.684 +/- 26.889
+omega yield for 26 :372.419 +/- 27.3286
+omega yield for 29 :355.077 +/- 26.8865
+omega yield for 32 :336.047 +/- 26.0182
+omega yield for 35 :383.641 +/- 26.7955
+
+ 
+ 
+2 < |t| < 3
+omega yield for 2 :210.28 +/- 20.1402
+omega yield for 5 :185.555 +/- 19.9244
+omega yield for 8 :175.792 +/- 19.7305
+omega yield for 11 :182.646 +/- 20.0245
+omega yield for 14 :149.27 +/- 18.6583
+omega yield for 17 :196.829 +/- 19.5789
+omega yield for 20 :187.468 +/- 19.4396
+omega yield for 23 :182.459 +/- 20.2001
+omega yield for 26 :167.282 +/- 19.648
+omega yield for 29 :162.786 +/- 19.3976
+omega yield for 32 :215.563 +/- 20.4064
+omega yield for 35 :174.637 +/- 19.466
+
+ 
+ 
+3 < |t| < 4
+omega yield for 2 :141.611 +/- 16.7426
+omega yield for 5 :130.119 +/- 16.4132
+omega yield for 8 :128.526 +/- 16.0972
+omega yield for 11 :114.615 +/- 15.6562
+omega yield for 14 :130.026 +/- 16.8716
+omega yield for 17 :100.285 +/- 15.6225
+omega yield for 20 :115.443 +/- 16.4185
+omega yield for 23 :94.891 +/- 15.9853
+omega yield for 26 :181.59 +/- 18.6038
+omega yield for 29 :104.971 +/- 15.559
+omega yield for 32 :117.936 +/- 16.1902
+omega yield for 35 :134.216 +/- 16.7805
+
+ 
+ 
+4 < |t| < 5
+omega yield for 2 :105.083 +/- 14.4256
+omega yield for 5 :114.628 +/- 14.7704
+omega yield for 8 :62.8518 +/- 13.0696
+omega yield for 11 :86.3691 +/- 13.9185
+omega yield for 14 :96.7349 +/- 13.939
+omega yield for 17 :87.5069 +/- 13.9537
+omega yield for 20 :97.3401 +/- 14.3085
+omega yield for 23 :97.06 +/- 14.1459
+omega yield for 26 :130.685 +/- 15.7924
+omega yield for 29 :106.977 +/- 14.775
+omega yield for 32 :110.687 +/- 15.2227
+omega yield for 35 :90.5257 +/- 14.349
+
+ 
+ 
+5 < |t| < 7
+omega yield for 2 :119.274 +/- 15.5932
+omega yield for 5 :140.272 +/- 16.7144
+omega yield for 8 :153.296 +/- 16.6475
+omega yield for 11 :148.346 +/- 16.8131
+omega yield for 14 :139.469 +/- 16.1847
+omega yield for 17 :123.33 +/- 15.6459
+omega yield for 20 :92.9622 +/- 15.3985
+omega yield for 23 :126.576 +/- 16.2171
+omega yield for 26 :122.386 +/- 16.2387
+omega yield for 29 :159.574 +/- 17.5078
+omega yield for 32 :127.37 +/- 16.3921
+omega yield for 35 :116.796 +/- 15.8676
+
+ 
+ 
+7 < |t| < 10
+omega yield for 2 :69.665 +/- 11.9946
+omega yield for 5 :82.654 +/- 12.525
+omega yield for 8 :59.3271 +/- 11.5728
+omega yield for 11 :83.2648 +/- 12.0924
+omega yield for 14 :77.2427 +/- 12.1831
+omega yield for 17 :73.6916 +/- 12.1118
+omega yield for 20 :76.8227 +/- 11.9924
+omega yield for 23 :71.5224 +/- 11.8334
+omega yield for 26 :88.6822 +/- 13.0344
+omega yield for 29 :93.1959 +/- 13.404
+omega yield for 32 :108.828 +/- 13.8639
+omega yield for 35 :84.8239 +/- 12.5571
+
+ 
+ 
+10 < |t| < 14
+omega yield for 2 :25.7598 +/- 6.95021
+omega yield for 5 :42.6799 +/- 8.22593
+omega yield for 8 :24.7168 +/- 6.52875
+omega yield for 11 :45.8938 +/- 8.40368
+omega yield for 14 :35.306 +/- 7.94156
+omega yield for 17 :41.66 +/- 8.16534
+omega yield for 20 :35.1214 +/- 7.08601
+omega yield for 23 :31.8106 +/- 7.68008
+omega yield for 26 :43.8346 +/- 8.35517
+omega yield for 29 :46.3432 +/- 8.46892
+omega yield for 32 :32.196 +/- 7.52178
+omega yield for 35 :44.6618 +/- 8.48559
+
+ 
+ 
+14 < |t| < 20
+omega yield for 2 :2.73351 +/- 2.56157
+omega yield for 5 :4.53042 +/- 3.12544
+omega yield for 8 :3.05481 +/- 2.7707
+omega yield for 11 :1.70669 +/- 2.59564
+omega yield for 14 :8.20708 +/- 3.55724
+omega yield for 17 :2.74695 +/- 2.56066
+omega yield for 20 :2.43522 +/- 2.33207
+omega yield for 23 :1.91283 +/- 2.35149
+omega yield for 26 :3.08326 +/- 2.5496
+omega yield for 29 :8.35168 +/- 3.71488
+omega yield for 32 :4.59359 +/- 2.7228
+omega yield for 35 :1.58597 +/- 2.10149
+
+ 
+ 
